@@ -1,0 +1,44 @@
+/*
+    ! All File Structure
+    -------------------
+    // index
+    ? Fonts
+    ? Imports
+
+    // Vars
+    ? Vars
+    ? Devices Responsive
+
+    // Base
+    ? Base
+        * body
+        * html
+        * Scroll Bar
+
+    // Components
+    ? Components
+        * Navbar dropdown
+        * Navbar
+        * Footer
+        * Movies Row
+        * Movie Details
+        * Movie Model
+        * Image Slider
+    
+    // Pages
+    ? Hero
+    ? Pages
+        * Login
+        * Search
+        * not found
+*/
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import 'Vars';
+
+@import 'Base';
+
+@import 'Pages';
+
+@import 'Components';
