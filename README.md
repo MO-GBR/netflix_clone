@@ -4,7 +4,7 @@ A Netflix landing page, with some cool and advanced features. A React JS landing
 
 # 🔗 Live Demo
 
-👉 [View]()
+👉 [View](https://netflix-clone-mu-woad-36.vercel.app)
 
 # 🛠️ Tech Stack
 - React JS
@@ -21,9 +21,9 @@ A Netflix landing page, with some cool and advanced features. A React JS landing
 # ⚡ Quick Start
 
 ```bash
-git clone
+git clone https://github.com/MO-GBR/netflix_clone.git
 
-cd
+cd netflix_clone
 
 npm install
 
